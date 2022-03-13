@@ -11,7 +11,7 @@ object ApiConstants {
     const val APPLICATION_JSON = "application/json"
     const val x2 = "2x"
     const val x4 = "4x"
-    const val API_KEY = "181103a0c3de58c56f952e9fb66d1e24"
+    const val API_KEY = "REPLACE WITH VALID API KEY"
 
     //errors
     const val NO_INTERNET = "No internet connection"
